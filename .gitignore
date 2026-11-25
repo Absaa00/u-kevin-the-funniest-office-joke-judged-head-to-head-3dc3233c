@@ -1,0 +1,8 @@
+# u-kevin office joke — local run artefacts only
+/output/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+kevin-office-joke-local-notes.txt
+/tmp-kevin-*.txt
